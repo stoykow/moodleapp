@@ -7,7 +7,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "de",
     "languages": {
         "af": "Afrikaans",
         "ar": "العربية",
@@ -70,12 +70,12 @@
     "wsservice": "moodle_mobile_app",
     "demo_sites": {
         "student": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://www.bildung-goerlitz.de",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://www.bildung-goerlitz.de",
             "username": "teacher",
             "password": "moodle"
         }
