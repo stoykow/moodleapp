@@ -70,14 +70,14 @@
     "wsservice": "moodle_mobile_app",
     "demo_sites": {
         "student": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://bildung-goerlitz.de/",
             "username": "student",
-            "password": "moodle25"
+            "password": "Moodle25!"
         },
         "teacher": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://bildung-goerlitz.de/",
             "username": "teacher",
-            "password": "moodle25"
+            "password": "Moodle25!"
         }
     },
     "defaultZoomLevel": "none",
@@ -90,7 +90,7 @@
     "sites": [{
         "name": "BiG",
         "alias": "Bildungsinstitut Görlitz",
-        "url": "https://bildung-goerlitz.de",
+        "url": "https://bildung-goerlitz.de/",
         "staging": false
     }],
     "multisitesdisplay": "",
