@@ -87,12 +87,12 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [{
+    "sites": [/*{
         "name": "BiG",
         "alias": "Bildungsinstitut Görlitz",
         "url": "https://bildung-goerlitz.de/",
         "staging": false
-    }],
+    }*/],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
