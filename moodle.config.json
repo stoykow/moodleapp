@@ -7,7 +7,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "de",
     "languages": {
         "af": "Afrikaans",
         "ar": "العربية",
@@ -87,7 +87,12 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "sites": [{
+        "name": "BiG",
+        "alias": "Bildungsinstitut Görlitz",
+        "url": "https://bildung-goerlitz.de",
+        "staging": false
+    }],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
