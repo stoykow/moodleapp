@@ -75,7 +75,13 @@
         "high": 120
     },
     "customurlscheme": "bigmobile",
-    "sites": [],
+    "sites": [
+        {
+            "name": "Bildungsinstitut Görlitz",
+            "url": "https://bildung-goerlitz.de",
+            "default": true
+        }
+    ],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
