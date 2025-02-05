@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.big.bigmobile",
+    "appname": "BiG Mobile",
     "versioncode": 50000,
     "versionname": "5.0.0",
     "cache_update_frequency_usually": 420000,
@@ -68,41 +68,29 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://bildung-goerlitz.de/",
-            "username": "student",
-            "password": "Moodle25!"
-        },
-        "teacher": {
-            "url": "https://bildung-goerlitz.de/",
-            "username": "teacher",
-            "password": "Moodle25!"
-        }
-    },
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
         "medium": 110,
         "high": 120
     },
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "bigmobile",
     "sites": [],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
-    "forcedefaultlanguage": false,
-    "privacypolicy": "https://moodle.net/moodle-app-privacy/",
+    "forcedefaultlanguage": true,
+    "privacypolicy": "https://bildung-goerlitz.de/mod/page/view.php?id=6",
     "notificoncolor": "#f98012",
     "enableanalytics": false,
     "enableonboarding": true,
     "forceColorScheme": "",
-    "forceLoginLogo": false,
-    "showTopLogo": "hidden",
+    "forceLoginLogo": true,
+    "showTopLogo": "false",
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
-        "ios": "id633359593"
+        "android": "com.big.bigmobile",
+        "ios": "dein-ios-store-id"
     },
     "wsrequestqueuelimit": 10,
     "wsrequestqueuedelay": 100,
